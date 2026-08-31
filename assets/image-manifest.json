@@ -53,55 +53,55 @@
     ],
     "width": 416
   },
-  "anna-assets/web/banking-01.webp": {
+  "anna-assets/web/accounting-01.webp": {
     "height": 900,
     "variants": [
       {
-        "avif": "assets/images/banking-01.c9879d10d87dd16086ed6b2c9a0627e68e86f4c0c9babafb3e90c44720286e6d-320.avif",
+        "avif": "assets/images/accounting-01.c9879d10d87dd16086ed6b2c9a0627e68e86f4c0c9babafb3e90c44720286e6d-320.avif",
         "height": 569,
-        "webp": "assets/images/banking-01.c57d858c41226f8a18073b68fc2f17b685ce71ef9f266cc3a541e69167ff5295-320.webp",
+        "webp": "assets/images/accounting-01.c57d858c41226f8a18073b68fc2f17b685ce71ef9f266cc3a541e69167ff5295-320.webp",
         "width": 320
       },
       {
-        "avif": "assets/images/banking-01.73ff27eb41a936bba4d57dae754e1c9fab8736c92deca9aafd90dfb2e9d3465c-506.avif",
+        "avif": "assets/images/accounting-01.73ff27eb41a936bba4d57dae754e1c9fab8736c92deca9aafd90dfb2e9d3465c-506.avif",
         "height": 900,
-        "webp": "assets/images/banking-01.167b5768ac85e7f84c42c831715eb0a569300bde1e75b97760888ddd621f027d-506.webp",
+        "webp": "assets/images/accounting-01.167b5768ac85e7f84c42c831715eb0a569300bde1e75b97760888ddd621f027d-506.webp",
         "width": 506
       }
     ],
     "width": 506
   },
-  "anna-assets/web/banking-05.webp": {
+  "anna-assets/web/accounting-05.webp": {
     "height": 900,
     "variants": [
       {
-        "avif": "assets/images/banking-05.d7e6700faa1b36e965d28bdade3163ee01a5d411fbe5a06f5040cf44868063db-320.avif",
+        "avif": "assets/images/accounting-05.d7e6700faa1b36e965d28bdade3163ee01a5d411fbe5a06f5040cf44868063db-320.avif",
         "height": 569,
-        "webp": "assets/images/banking-05.f863219636624bc6e9a9a2d0b338139a2f6392179a80dcf58d6292e2dcebb93a-320.webp",
+        "webp": "assets/images/accounting-05.f863219636624bc6e9a9a2d0b338139a2f6392179a80dcf58d6292e2dcebb93a-320.webp",
         "width": 320
       },
       {
-        "avif": "assets/images/banking-05.dfcca19a4db70eee9824551cc5aaef365274830935643fac34422825d6f402b6-506.avif",
+        "avif": "assets/images/accounting-05.dfcca19a4db70eee9824551cc5aaef365274830935643fac34422825d6f402b6-506.avif",
         "height": 900,
-        "webp": "assets/images/banking-05.c386bc69ec02298a3984d7860d1edfa840fb32e8098c84c5f25bf5177ed65ef6-506.webp",
+        "webp": "assets/images/accounting-05.c386bc69ec02298a3984d7860d1edfa840fb32e8098c84c5f25bf5177ed65ef6-506.webp",
         "width": 506
       }
     ],
     "width": 506
   },
-  "anna-assets/web/banking-08.webp": {
+  "anna-assets/web/accounting-08.webp": {
     "height": 900,
     "variants": [
       {
-        "avif": "assets/images/banking-08.0fcd7d2678561676b828aeb60634d31bd5ea95123c703b66ac79ae12b0460313-320.avif",
+        "avif": "assets/images/accounting-08.0fcd7d2678561676b828aeb60634d31bd5ea95123c703b66ac79ae12b0460313-320.avif",
         "height": 569,
-        "webp": "assets/images/banking-08.e35655e989b1ae681ab899889c5ba64310a6fc137fe1209696dae11c71921dc6-320.webp",
+        "webp": "assets/images/accounting-08.e35655e989b1ae681ab899889c5ba64310a6fc137fe1209696dae11c71921dc6-320.webp",
         "width": 320
       },
       {
-        "avif": "assets/images/banking-08.63638c07a6219053af2c1596b12c61117076edcf1b8d1b41fe8f9a137b48be0f-506.avif",
+        "avif": "assets/images/accounting-08.63638c07a6219053af2c1596b12c61117076edcf1b8d1b41fe8f9a137b48be0f-506.avif",
         "height": 900,
-        "webp": "assets/images/banking-08.67659fd935a6899b4d3ee4fcd768354c4fdd7e8b192e477c30676f036559a0d2-506.webp",
+        "webp": "assets/images/accounting-08.67659fd935a6899b4d3ee4fcd768354c4fdd7e8b192e477c30676f036559a0d2-506.webp",
         "width": 506
       }
     ],
