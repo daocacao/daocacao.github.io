@@ -1,0 +1,278 @@
+{
+  "anna-assets/web/accountant-02.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/accountant-02.ea5378ab7e09300a0adb87c9344d8006021e6ebfe3f9b19149aed214d30c8319-320.avif",
+        "height": 692,
+        "webp": "assets/images/accountant-02.0622ae2b0762cdf63337a24efd45091e86b51abb1e5ba9152fdc04bb098aa21e-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/accountant-02.0592f429592665fd9e88c27c5aa63f92e7f222c33c29b9a7e3f37254177fc39f-416.avif",
+        "height": 900,
+        "webp": "assets/images/accountant-02.2b49bd625bc0bd7cce7c34cedb4fb29c604fb59455a98ea5c89e91603ff83f92-416.webp",
+        "width": 416
+      }
+    ],
+    "width": 416
+  },
+  "anna-assets/web/accountant-04.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/accountant-04.233a75d4aa59a8774249b5c5204f22650f04a9a0bb90142d884278f6b2746524-320.avif",
+        "height": 692,
+        "webp": "assets/images/accountant-04.fef7b7a23208faaff57410a066fe4ba2a59212d2aa4d7a21f503cdaa15f380bc-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/accountant-04.4c4f4fea0954e7230a469f480d0b40a0e9f5d10474c368837d3bad5acbd3c24c-416.avif",
+        "height": 900,
+        "webp": "assets/images/accountant-04.ab843885a2ec51ded9e3a2a0b101799c9eb9b71d2f326679bf7354c5cb3f3670-416.webp",
+        "width": 416
+      }
+    ],
+    "width": 416
+  },
+  "anna-assets/web/accountant-06.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/accountant-06.ddb70ea99b461305649d157b6fd3cc5131836a0fa8c36cdc4e165b4873001232-320.avif",
+        "height": 692,
+        "webp": "assets/images/accountant-06.a298d0069fff372f064de4b2464953d4601db842451910f2d3104336a6459724-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/accountant-06.22cd538a52a5b88e4dbc8fa7ba830d054bc8d5652d4ae5686c4103620ea4cc55-416.avif",
+        "height": 900,
+        "webp": "assets/images/accountant-06.4363df293b920c7f384c3188345d7f2cb65fece4c1cfd11e5c17bc9686957206-416.webp",
+        "width": 416
+      }
+    ],
+    "width": 416
+  },
+  "anna-assets/web/banking-01.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/banking-01.c9879d10d87dd16086ed6b2c9a0627e68e86f4c0c9babafb3e90c44720286e6d-320.avif",
+        "height": 569,
+        "webp": "assets/images/banking-01.c57d858c41226f8a18073b68fc2f17b685ce71ef9f266cc3a541e69167ff5295-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/banking-01.73ff27eb41a936bba4d57dae754e1c9fab8736c92deca9aafd90dfb2e9d3465c-506.avif",
+        "height": 900,
+        "webp": "assets/images/banking-01.167b5768ac85e7f84c42c831715eb0a569300bde1e75b97760888ddd621f027d-506.webp",
+        "width": 506
+      }
+    ],
+    "width": 506
+  },
+  "anna-assets/web/banking-05.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/banking-05.d7e6700faa1b36e965d28bdade3163ee01a5d411fbe5a06f5040cf44868063db-320.avif",
+        "height": 569,
+        "webp": "assets/images/banking-05.f863219636624bc6e9a9a2d0b338139a2f6392179a80dcf58d6292e2dcebb93a-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/banking-05.dfcca19a4db70eee9824551cc5aaef365274830935643fac34422825d6f402b6-506.avif",
+        "height": 900,
+        "webp": "assets/images/banking-05.c386bc69ec02298a3984d7860d1edfa840fb32e8098c84c5f25bf5177ed65ef6-506.webp",
+        "width": 506
+      }
+    ],
+    "width": 506
+  },
+  "anna-assets/web/banking-08.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/banking-08.0fcd7d2678561676b828aeb60634d31bd5ea95123c703b66ac79ae12b0460313-320.avif",
+        "height": 569,
+        "webp": "assets/images/banking-08.e35655e989b1ae681ab899889c5ba64310a6fc137fe1209696dae11c71921dc6-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/banking-08.63638c07a6219053af2c1596b12c61117076edcf1b8d1b41fe8f9a137b48be0f-506.avif",
+        "height": 900,
+        "webp": "assets/images/banking-08.67659fd935a6899b4d3ee4fcd768354c4fdd7e8b192e477c30676f036559a0d2-506.webp",
+        "width": 506
+      }
+    ],
+    "width": 506
+  },
+  "argo-assets/web/argo-03.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/argo-03.8fe046086d1e0d4e72d90e46843c3cb80c987d57c952839827ceaf407bb1917b-320.avif",
+        "height": 569,
+        "webp": "assets/images/argo-03.71325695bcd6768c67bcbc0c5196530bac4f9ea42fe99d581a596c439e449699-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/argo-03.dbb945891ce98dc5da6cc8a4b7af7e220f375547a78855b04cdda167b9af3265-506.avif",
+        "height": 900,
+        "webp": "assets/images/argo-03.f239d64ac2e0ede2feb3fc3013bbfdd0de51165c8fd99039c48cf893810a0de9-506.webp",
+        "width": 506
+      }
+    ],
+    "width": 506
+  },
+  "argo-assets/web/argo-04.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/argo-04.e1f7247e190a9867088b292307138e42b279c40f4d370e0dcc4aecbd38668c87-320.avif",
+        "height": 569,
+        "webp": "assets/images/argo-04.5404c65a04b36ebaf6f99fc83d458a548c40bc890ed2c3bbb2681be03e23aeb5-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/argo-04.d0b8b44b5e00349372856e8adb108af8c4f175fb13c518f4f4828fb262ec277c-506.avif",
+        "height": 900,
+        "webp": "assets/images/argo-04.9d3bf8f65500b74a9e275635ec86d09d9b1b09657072390a5f9f4f25599ced44-506.webp",
+        "width": 506
+      }
+    ],
+    "width": 506
+  },
+  "argo-assets/web/argo-06.webp": {
+    "height": 900,
+    "variants": [
+      {
+        "avif": "assets/images/argo-06.1e7da4dfc2004da608b4cd0b02e683681f5ed066b48cd6c6c02198430e56791d-320.avif",
+        "height": 569,
+        "webp": "assets/images/argo-06.34d3acb8b627df362fe9c24ff80b62f8ed32812d76433565ebbc10d24ad3b224-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/argo-06.6e3f21b11ba0afa219d05becd95a302747df2f7046801d7fa9ee1af7550cfbfc-506.avif",
+        "height": 900,
+        "webp": "assets/images/argo-06.1a3ae772e099a26c540a30e2f98ee1324213d2271103dd305e432611290b623d-506.webp",
+        "width": 506
+      }
+    ],
+    "width": 506
+  },
+  "portfolio-home-assets/bdui-cover.png": {
+    "height": 446,
+    "variants": [
+      {
+        "avif": "assets/images/bdui-cover.4044e61cf7b8e745977bf8ee6aa4bf3c7e0fcee7048fd3d5d4a62f832555de54-320.avif",
+        "height": 263,
+        "webp": "assets/images/bdui-cover.f76ac5c30a2dda4ac51c6ded6566c16d6b8420b1c16d883084b0222440a91282-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/bdui-cover.0fa753401655659505d6020940efe1e50a0f7becd45abb9fd8acea530aef1819-543.avif",
+        "height": 446,
+        "webp": "assets/images/bdui-cover.a0286b458f4d92ba92871bb39a295d521f4f8368990171b4e3ae27973a360ee9-543.webp",
+        "width": 543
+      }
+    ],
+    "width": 543
+  },
+  "portfolio-home-assets/design-system-cover.png": {
+    "height": 620,
+    "variants": [
+      {
+        "avif": "assets/images/design-system-cover.7bf724a16732bce61b4e07006e4471ffd961f39ad53cce536d47ada29dfe5681-320.avif",
+        "height": 318,
+        "webp": "assets/images/design-system-cover.6dd54d7381f6bfba0b8b8681d28fe3d0ebbdca1b44fe50625829a0f3d678c55e-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/design-system-cover.791060bd0b5a99d062bda1f31d60c8d60f330e781a501755e8fc719b03e74a2f-623.avif",
+        "height": 620,
+        "webp": "assets/images/design-system-cover.6584eeb7ecdcdf83c78634f726b861f58f6ef3009ed54f7be4dee5b9ee883cd3-623.webp",
+        "width": 623
+      }
+    ],
+    "width": 623
+  },
+  "portfolio-home-assets/flutter-migration-cover.png": {
+    "height": 621,
+    "variants": [
+      {
+        "avif": "assets/images/flutter-migration-cover.f576c3b62be70f8c44090e8fa40d495333cb3e30d08dfb8a48fb3d7de245d65c-320.avif",
+        "height": 372,
+        "webp": "assets/images/flutter-migration-cover.926a7e8a89f522507902e6682c198c06889cf2cf9cfb3813dd793ae0fc87265a-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/flutter-migration-cover.dc14a4f198c4f26ea597836dd46e81fa8ed55c7731ae8487471a06d40855813e-534.avif",
+        "height": 621,
+        "webp": "assets/images/flutter-migration-cover.795c84a28c821d191ff55c5d11cd698f66933d2c62cc176942748a1cfdf42582-534.webp",
+        "width": 534
+      }
+    ],
+    "width": 534
+  },
+  "tau-assets/map.webp": {
+    "height": 1160,
+    "variants": [
+      {
+        "avif": "assets/images/map.b56a278a7adca36fa3896a05cb2f03029d663f39ba519ce7d53374ecebd5ff88-320.avif",
+        "height": 629,
+        "webp": "assets/images/map.1a015451b2adf0b2c009f0477668c8412687cf43cbb154211fbf9485604de751-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/map.bb424dbcb3458a629c1de58936e53a69ae2fbf554fa0bdf24124a1913be286e6-590.avif",
+        "height": 1160,
+        "webp": "assets/images/map.a9d0c594963fef8b7562d0f6ad9e0e48ce0d2c1d24c9f3e1b21aa368eb690640-590.webp",
+        "width": 590
+      }
+    ],
+    "width": 590
+  },
+  "tau-assets/station-details.webp": {
+    "height": 1165,
+    "variants": [
+      {
+        "avif": "assets/images/station-details.df0b3b6638d1657b268379abbcb8bf48ad9886c5fc7f68c39f9a59befc6efcd2-320.avif",
+        "height": 632,
+        "webp": "assets/images/station-details.a01f00d08d183b8d722418188b452f592b641ec5faef4e6b2e49a6479368d171-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/station-details.87e16059bc4515135b4b17f92f5cfca492f12006d3ae90ec93d9d9cb691a6bd5-590.avif",
+        "height": 1165,
+        "webp": "assets/images/station-details.1b4bb9a4bc37dd1efa4680e308de312992da216e2f6f4d5cbf0f9468d7c2b025-590.webp",
+        "width": 590
+      }
+    ],
+    "width": 590
+  },
+  "tau-assets/tau-brand.webp": {
+    "height": 718,
+    "variants": [
+      {
+        "avif": "assets/images/tau-brand.cf2d466d6f540666b35631cd78e219f4459d944d2d7c270bd7a0ba4a2a23f453-320.avif",
+        "height": 180,
+        "webp": "assets/images/tau-brand.6353ca7b6e27f815b937c20c4a112b0f3f2c0ca2ebe014699e8977a70faafaf3-320.webp",
+        "width": 320
+      },
+      {
+        "avif": "assets/images/tau-brand.bf0a59b828a935dabd0542c9fc4a49cf91b4f41f9abdca9a6a899fe597b74763-640.avif",
+        "height": 359,
+        "webp": "assets/images/tau-brand.3f806f68a1d2731917fa08d077cf004fa1af011a847ab49b2cd38125aed38d48-640.webp",
+        "width": 640
+      },
+      {
+        "avif": "assets/images/tau-brand.43b2f008b41fad05750493972499f9f28715da4d8da1be4c1b30767244fa5b58-1280.avif",
+        "height": 718,
+        "webp": "assets/images/tau-brand.8857eeaa0374600acd2bfc1c9e7ad7d520b55187d7cb2f61ccb15267c012849d-1280.webp",
+        "width": 1280
+      }
+    ],
+    "width": 1280
+  }
+}
